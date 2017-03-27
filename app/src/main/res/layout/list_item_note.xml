@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:layout_gravity="center"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/textView_title"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:background="#e4dd81"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="30dp"
+        android:textSize="15sp"
+        tools:text="This page revision has been suppressed from the public archives and from administrator view. Details can be found in the suppression log for this page." />
+
+    <ImageView
+        android:id="@+id/imageView_pin"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="top|center_horizontal"
+        android:src="@drawable/pin" />
+
+</FrameLayout>

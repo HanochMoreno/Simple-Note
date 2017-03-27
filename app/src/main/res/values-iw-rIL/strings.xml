@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleNote</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_details2">DetailsActivity2</string>
+    <string name="no_info">אין מידע</string>
+    <string name="enter_note_item_detail">הכנס פרטי הפריט</string>
+    <string name="save">שמור</string>
+    <string name="yes">כן</string>
+    <string name="are_you_sure">האם אתה בטוח?</string>
+    <string name="the_operation_is_irreversible">הפעולה בלתי הפיכה</string>
+    <string name="delete_note">מחיקת פתק</string>
+    <string name="long_click_edit_title">לחיצה ארוכה לעריכת הכותרת</string>
+    <string name="new_note">פתק חדש</string>
+    <string name="title_activity_details3">DetailsActivity3</string>
+    <string name="save_note">שמור פתק</string>
+</resources>

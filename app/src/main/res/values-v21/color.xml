@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ColorPrimary">#3F51B5</color>
+    <color name="ColorPrimaryDark">#303F9F</color>
+    <color name="ColorAccent">#FF4081</color>
+    <color name="ColorTextPrimary">#ffffff</color>
+    <color name="ColorBrown">#3e0c01</color>
+    <color name="ColorDialogBackground">#989393</color>
+    <color name="ColorPremiumSnackbar">#ec660d</color>
+
+</resources>
